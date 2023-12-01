@@ -31,6 +31,22 @@ For the ETL project, we built an ETL pipeline using Python, Pandas, and Python d
 
 ## Images 
 
+### ERD Diagram 
+![Crowdfunding_db_ERD](https://github.com/AlyssaCullinan/crowdfunding_ETL/assets/141466633/7727534e-1824-4038-b60d-277808fe52e8)
+
+### Campaign Table
+<img width="1499" alt="Campaign Table Data" src="https://github.com/AlyssaCullinan/crowdfunding_ETL/assets/141466633/52f60544-0d5b-49b7-aa06-4bb3069a2c15">
+
+### Category Table
+<img width="1023" alt="Category Table Data" src="https://github.com/AlyssaCullinan/crowdfunding_ETL/assets/141466633/14c910a8-a6d5-4485-a41f-4697fe96aec9">
+
+### Subcategory Table
+<img width="847" alt="Subcategory Table Data" src="https://github.com/AlyssaCullinan/crowdfunding_ETL/assets/141466633/137d33fc-450e-407b-96d5-d49feedb5632">
+
+### Contacts Table
+<img width="997" alt="Contacts Table Data" src="https://github.com/AlyssaCullinan/crowdfunding_ETL/assets/141466633/70736eb7-6651-4d36-b1fa-1b63f7adcaeb">
+
+
 ## Built With
 
 * Python 
